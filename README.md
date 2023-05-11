@@ -1,5 +1,7 @@
 # slide-template
 
+This project has been made read-only and has been archived.
+
 Generally you can try these out with:
 
 * git clone https://github.com/c-ale/c-ale-common.git
